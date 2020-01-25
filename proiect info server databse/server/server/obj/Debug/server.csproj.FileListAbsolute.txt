@@ -1,0 +1,32 @@
+D:\anul 2 sem 2\proiect info\server\server\bin\Debug\server.exe.config
+D:\anul 2 sem 2\proiect info\server\server\bin\Debug\server.exe
+D:\anul 2 sem 2\proiect info\server\server\bin\Debug\server.pdb
+D:\anul 2 sem 2\proiect info\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\anul 2 sem 2\proiect info\server\server\obj\Debug\server.exe
+D:\anul 2 sem 2\proiect info\server\server\obj\Debug\server.pdb
+D:\anul 2 sem 2\proiect info\server\server\bin\Debug\FinalDatabase.dll
+D:\anul 2 sem 2\proiect info\server\server\bin\Debug\System.Data.SQLite.dll
+D:\anul 2 sem 2\proiect info\server\server\bin\Debug\FinalDatabase.pdb
+D:\anul 2 sem 2\proiect info\server\server\bin\Debug\System.Data.SQLite.xml
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\bin\Debug\server.exe.config
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\obj\Debug\server.exe
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\obj\Debug\server.pdb
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\bin\Debug\server.exe
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\bin\Debug\server.pdb
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\bin\Debug\FinalDatabase.dll
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\bin\Debug\System.Data.SQLite.dll
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\bin\Debug\FinalDatabase.pdb
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\bin\Debug\System.Data.SQLite.xml
+D:\anul 2 sem 2\proiect\proiect info server databse\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\bin\Debug\server.exe.config
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\bin\Debug\server.exe
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\bin\Debug\server.pdb
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\bin\Debug\FinalDatabase.dll
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\bin\Debug\System.Data.SQLite.dll
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\bin\Debug\FinalDatabase.pdb
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\bin\Debug\System.Data.SQLite.xml
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\obj\Debug\server.exe
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\obj\Debug\server.pdb
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache

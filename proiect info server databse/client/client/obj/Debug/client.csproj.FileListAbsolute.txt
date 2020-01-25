@@ -1,0 +1,11 @@
+D:\anul 2 sem 2\proiect info\client\client\bin\Debug\client.exe.config
+D:\anul 2 sem 2\proiect info\client\client\bin\Debug\client.exe
+D:\anul 2 sem 2\proiect info\client\client\bin\Debug\client.pdb
+D:\anul 2 sem 2\proiect info\client\client\obj\Debug\client.exe
+D:\anul 2 sem 2\proiect info\client\client\obj\Debug\client.pdb
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\client\client\bin\Debug\client.exe.config
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\client\client\bin\Debug\client.exe
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\client\client\bin\Debug\client.pdb
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\client\client\obj\Debug\client.exe
+C:\Users\ciurb\Desktop\proiect\proiect\proiect info server databse\client\client\obj\Debug\client.pdb

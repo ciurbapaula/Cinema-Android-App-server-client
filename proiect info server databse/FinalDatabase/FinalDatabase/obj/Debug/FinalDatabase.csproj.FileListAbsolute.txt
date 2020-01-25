@@ -1,0 +1,6 @@
+D:\anul 2 sem 2\proiect info\FinalDatabase\FinalDatabase\bin\Debug\FinalDatabase.pdb
+D:\anul 2 sem 2\proiect info\FinalDatabase\FinalDatabase\bin\Debug\System.Data.SQLite.xml
+D:\anul 2 sem 2\proiect info\FinalDatabase\FinalDatabase\obj\Debug\FinalDatabase.dll
+D:\anul 2 sem 2\proiect info\FinalDatabase\FinalDatabase\obj\Debug\FinalDatabase.pdb
+D:\anul 2 sem 2\proiect info\FinalDatabase\FinalDatabase\obj\Debug\FinalDatabase.csprojResolveAssemblyReference.cache
+D:\anul 2 sem 2\proiect info\FinalDatabase\FinalDatabase\bin\Debug\FinalDatabase.dll
