@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="descriere_film">Descriere film:</string>
+    <string name="alegeti_ora">Alegeti ora</string>
+    <string name="ora2">ora2</string>
+    <string name="ora3">ora3</string>
+    <string name="alegeti_fimul_dorit">Alegeti fimul dorit :</string>
+    <string name="tomb_raider">Tomb Raider</string>
+    <string name="avengers_infinity_war_2018_3d">Avengers: Infinity War (2018) - 3D</string>
+    <string name="jumanji_welcome_to_the_jungle_2017">Jumanji: Welcome to the Jungle (2017)</string>
+    <string name="mamma_mia_here_we_go_again_2018">Mamma Mia! Here We Go Again (2018)</string>
+    <string name="the_greatest_showman_2017">The Greatest Showman (2017)</string>
+    <string name="descriere">descriere</string>
+</resources>
